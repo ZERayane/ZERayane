@@ -4,7 +4,7 @@
 
 I’m **Rayane**, a 3rd-year Computer Science student specialized in **Information Systems and Software Engineering**. I focus on building dependable systems and clean, maintainable software. I enjoy understanding how things work under the hood, translating complex requirements into practical solutions, and collaborating to deliver measurable results.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=0&color=F0B730&center=false&vCenter=false&width=600&lines=Rayane;From+Algeria;CS+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=0&color=F0B730&center=false&vCenter=false&width=600&lines=Rayane;From+Algeria;CS+Student;My+favorite+language+is+C;I+Love+MATHEMATICS+!!!;)](https://git.io/typing-svg)
 ---
 
 ## Currently

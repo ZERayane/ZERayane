@@ -42,7 +42,7 @@ C • C++ • Python • Java • JavaScript • TypeScript • PHP • MATLAB
 HTML • CSS • React • Bootstrap • Node.js • Apache
 
 **Databases**  
-MySQL
+MySQL • phpMyadmin
 
 **Tools**  
 VS Code • MyEclipse • Code::Blocks • GitHub

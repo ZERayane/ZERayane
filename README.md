@@ -8,7 +8,7 @@ I’m **Rayane**, a 3rd-year Computer Science student specialized in **Informati
 ---
 
 ## Currently
-- **6-month internship at Naftal SPA** — building a full-stack web platform to digitalize and manage social and leisure activities.
+- **6-month internship at Naftal SPA**, building a full-stack web platform to digitalize and manage social and leisure activities.
 
 <details>
 <summary><strong>Goals and Highlights</strong></summary>
